@@ -1,0 +1,7 @@
+C:\Users\Tech Academy Student\source\repos\payStub\payStub\bin\Debug\payStub.exe.config
+C:\Users\Tech Academy Student\source\repos\payStub\payStub\bin\Debug\payStub.exe
+C:\Users\Tech Academy Student\source\repos\payStub\payStub\bin\Debug\payStub.pdb
+C:\Users\Tech Academy Student\source\repos\payStub\payStub\obj\Debug\payStub.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\source\repos\payStub\payStub\obj\Debug\payStub.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\source\repos\payStub\payStub\obj\Debug\payStub.exe
+C:\Users\Tech Academy Student\source\repos\payStub\payStub\obj\Debug\payStub.pdb
